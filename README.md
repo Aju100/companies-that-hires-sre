@@ -42,6 +42,7 @@ List of tech companies (or teams) that hires SRE engineer.
 - [Netflix](http://www.netflix.com/)
 
 ## P - R
+- [Pearson](https://www.pearson.com/)
 - [Pinterest](http://www.pinterest.com/)
 
 ## S - U
