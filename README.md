@@ -10,7 +10,7 @@ List of tech companies (or teams) that hires SRE engineer.
 
 - [Fork](https://guides.github.com/activities/forking) the repository
 - Add your company in alphabetical order using the mentioned format below
-- Company description should be short and should not end with a period
+
 
 ### Format
 
